@@ -1,0 +1,14 @@
+2022-01-24 01:01:147 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-24 01:01:605 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-24 02:01:805 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-24 02:01:988 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-24 02:01:664 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-24 02:01:123 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-24 02:01:736 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-24 02:01:48 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-24 02:01:514 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-24 02:01:940 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-24 02:01:251 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-24 02:01:765 INFO  LastPage :19 - Getting confirmation text to confirm Order [[ChromeDriver: chrome on WINDOWS (b974a6f8dd8c0d97b893e26b1f7962dc)] -> css selector: .complete-header]
+2022-01-24 02:01:481 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-24 02:01:197 INFO  LastPage :19 - Getting confirmation text to confirm Order [[ChromeDriver: chrome on WINDOWS (2836a488666adcf1cc0bfbd2c562a686)] -> css selector: .complete-header]
